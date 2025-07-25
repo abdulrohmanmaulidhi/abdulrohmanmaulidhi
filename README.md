@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">A aspiring frontend & fullstack developer from Indonesia</p>
+<p align="center">Aspiring frontend & fullstack developer from Indonesia</p>
 
 ###
 
